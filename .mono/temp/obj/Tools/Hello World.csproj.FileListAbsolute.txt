@@ -1,0 +1,8 @@
+H:\Game Projects\Godot Hellow\.mono\temp\obj\Tools\Hello World.csprojResolveAssemblyReference.cache
+H:\Game Projects\Godot Hellow\.mono\temp\obj\Tools\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\obj\Tools\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\obj\Tools\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\bin\Tools\Hello World.dll
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\bin\Tools\Hello World.pdb
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\obj\Tools\Hello World.dll
+C:\Users\mstop\OneDrive\Documents\GitHub\godot-hello-world\.mono\temp\obj\Tools\Hello World.pdb
